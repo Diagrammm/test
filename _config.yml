@@ -10,7 +10,7 @@ permalink: :year/:month/:day/:title/
 pretty_urls:
   trailing_index: true
   trailing_html: true
-theme: landscape
+theme: butterfly
 theme_config:
   menu:
     Home: /
@@ -19,6 +19,6 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace: ''
+  tab_replace: ""
 deploy:
-  type: ''
+  type: ""
